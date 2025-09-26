@@ -2,7 +2,7 @@
 
 ## Senior Software Engineer | React Native Specialist
 
-With **7+ years** of dedicated React Native development experience, I specialize in building high-quality mobile applications for startups and enterprise solutions.
+With **7+ years** (and 14+ years in IT) of dedicated React Native development experience, I specialize in building high-quality mobile applications for startups and enterprise solutions.
 
 ### 🚀 What I Do & Deliver
 
